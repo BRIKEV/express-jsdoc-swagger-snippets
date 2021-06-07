@@ -1,3 +1,6 @@
+# express-jsdoc-swagger-snippets
+VSCode snippets for express-jsdoc-swagger
+
 # openapi-jsdoc README
 
 This is the README for your extension "openapi-jsdoc". After writing up a brief description, we recommend including the following sections.
