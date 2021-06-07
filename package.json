@@ -2,7 +2,7 @@
     "name": "express-jsdoc-swagger-snippets",
     "displayName": "express-jsdoc-swagger-snippets",
     "description": "Code snippets for express-jsdoc-swagger",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "icon": "branding/170x170.jpg",
     "galleryBanner": {
         "color": "#212121",
