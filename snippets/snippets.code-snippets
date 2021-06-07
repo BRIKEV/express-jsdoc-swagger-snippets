@@ -3,12 +3,12 @@
     "prefix": ["endpoint", "openapi:endpoint"],
     "body": [
       "/**",
-      " * ${0:method} ${1:endpoint}",
+      " * ${1:method} ${2:endpoint}",
       " * @description ${3:description}",
       " * @summary ${4:summary}",
       " * @param {${5:paramType}} ${6:paramId}.${7:paramType} - ${8:paramDescription}",
       " * @param {${13:requestBodyType}} request.body - ${14:requestBodyDescription}",
-      " * @return {${9:responseType}} ${10:status} - ${11:status} - ${12:responseContentType}",
+      " * @return {${9:responseType}} ${10:status} - ${11:responseDescription} - ${12:responseContentType}",
       " */"
     ],
     "description": "express-jsdoc-swagger endpoint structure"
