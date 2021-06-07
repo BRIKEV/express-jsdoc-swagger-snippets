@@ -1,14 +1,29 @@
 {
-    "name": "openapi-jsdoc",
+    "name": "express-jsdoc-swagger-snippets",
     "displayName": "express-jsdoc-swagger-snippets",
     "description": "Code snippets for express-jsdoc-swagger",
     "version": "0.0.1",
+    "icon": "branding/170x170.jpg",
+    "galleryBanner": {
+        "color": "#212121",
+        "theme": "dark"
+    },
     "engines": {
         "vscode": "^1.56.0"
     },
     "categories": [
         "Snippets"
     ],
+    "bugs": {
+        "url": "https://github.com/BRIKEV/express-jsdoc-swagger-snippets/issues"
+    },
+    "publisher": "brikev",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/brikev/express-jsdoc-swagger-snippets.git"
+    },
+    "homepage": "https://github.com/BRIKEV/express-jsdoc-swagger-snippets/blob/master/README.md",
     "contributes": {
         "snippets": [
             {
